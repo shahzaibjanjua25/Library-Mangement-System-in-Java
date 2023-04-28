@@ -1,0 +1,24 @@
+This is a simple Library system in which you can regiser a student or a book by yourself
+
+The LMS provides security with encrypted passwords which ensures the security of the project.
+
+The LMS provides the statistics of the previous book returned records in the statistics tab of home 
+menu.
+
+To add a book press "ADD BOOK" tab from the home.
+
+To add a student press "ADD STUDENT" tab from the home.
+
+To issue a book press "ISSUE BOOK" tab from the home.
+
+To return a book press "RETURN BOOK" tab from the home.
+
+To get some info of creators of the project press "ABOUT US" tab from the home or from "HELP" tab from the menu bar .
+
+To get the record of the students and the books which are enrolled in the LMS , press record
+from menu bar in the home page.
+
+To logout of the LMS , chose LOGOUT from the EXIT tab in the menu bar.
+TO exit the LMS, press EXIT from the EXIT TAB from the menu bar.
+
+TO read this notepad , press help from the HELP TAB in the menu tab.
